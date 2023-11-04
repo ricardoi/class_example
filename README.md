@@ -1,1 +1,1 @@
-book repo for "Computational Genomics with R"
+Class Example for "Impact throug Network Analysis 2"
